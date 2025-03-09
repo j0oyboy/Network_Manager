@@ -1,6 +1,6 @@
 # Network Tool Advanced Edition
 
-![[Pasted image 20250309193539.png]]
+![image](https://github.com/user-attachments/assets/caf118da-cb79-406f-b35c-8b2d7d386cf6)
 
 ## Overview
 
@@ -114,12 +114,15 @@ Network Tool Advanced Edition is a comprehensive PowerShell-based network manage
 
 ## Screenshots
 ##### <center> Get Interface Information</center>
-![[Pasted image 20250309194322.png]]
+![image](https://github.com/user-attachments/assets/cd491945-5c98-4ef7-b913-18f9650f7932)
+
 ##### <center> Network Diagnostics & Troubleshooting</center>
-![[Pasted image 20250309194059.png]]
+![image](https://github.com/user-attachments/assets/e9583fc2-f6c3-44d5-81f1-a6c321e4ceed)
+
 
 ##### <center> Network Monitoring</center>
-![[Pasted image 20250309194417.png]]
+![image](https://github.com/user-attachments/assets/705a2dd4-8841-4634-95de-5bb02fb83b4c)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
